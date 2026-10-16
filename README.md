@@ -55,3 +55,7 @@ forge script script/deploy/DeployYieldDistributor.s.sol:DeployYieldDistributor -
 ## Upgrading
 
 See [script/upgrades/README.md](script/upgrades/README.md) for upgrade validation and deployment instructions.
+
+## Ecosystem
+
+- [Commons Protocol](https://github.com/TerexitariusStomp/commons-protocol) — public-goods NFT marketplace implementing Bread-Coop-style seasonal fund allocation (points → matching shares) on-chain via an ERC-4626 endowment.
